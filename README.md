@@ -21,23 +21,23 @@ Process 4-1: Constant Volume Heat Rejection
 
 **Governing equation:**
 
-Swept volume  (Vs) ,
-![e1](https://user-images.githubusercontent.com/104487026/179738295-cade9ec2-41ce-436a-bd09-c7499419b96b.png)
+Swept volume  (Vs) ,<br /> 
+![e1](https://user-images.githubusercontent.com/104487026/179738295-cade9ec2-41ce-436a-bd09-c7499419b96b.png)<br /> 
 
-clearance volume(Vc)
-![e2](https://user-images.githubusercontent.com/104487026/179738354-70230d0f-6dad-4a50-aff0-e9e15f6873a3.png)
+clearance volume(Vc)<br /> 
+![e2](https://user-images.githubusercontent.com/104487026/179738354-70230d0f-6dad-4a50-aff0-e9e15f6873a3.png)<br /> 
   
-Volume trace,  
-![e3](https://user-images.githubusercontent.com/104487026/179738386-12d2a687-e8b6-4514-92cb-cfd398479653.png)
+Volume trace,  <br /> 
+![e3](https://user-images.githubusercontent.com/104487026/179738386-12d2a687-e8b6-4514-92cb-cfd398479653.png)<br /> 
 
-Isentropic process equation,
-![e4](https://user-images.githubusercontent.com/104487026/179738423-3f97eea3-8df7-4380-a6bb-cd8b4e263436.png)
+Isentropic process equation,<br /> 
+![e4](https://user-images.githubusercontent.com/104487026/179738423-3f97eea3-8df7-4380-a6bb-cd8b4e263436.png)<br /> 
 
-combined gas equation,
-![e5](https://user-images.githubusercontent.com/104487026/179738460-9488b0cf-5daf-4d77-902c-390977b53d57.png)
+combined gas equation,<br /> 
+![e5](https://user-images.githubusercontent.com/104487026/179738460-9488b0cf-5daf-4d77-902c-390977b53d57.png)<br /> 
 
-Thermal effiiciency of Otto cycle,
-![e6](https://user-images.githubusercontent.com/104487026/179738488-315faf37-0bab-42f2-af85-10560b05f3df.png)
+Thermal effiiciency of Otto cycle,<br /> 
+![e6](https://user-images.githubusercontent.com/104487026/179738488-315faf37-0bab-42f2-af85-10560b05f3df.png)<br /> 
 
    
 
