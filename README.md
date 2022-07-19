@@ -43,7 +43,7 @@ Thermal effiiciency of Otto cycle,<br />
 
 PROGRAM
 
-INPUTS:
+**INPUTS:**
 
 1. Engine geometric parameters;
 
@@ -73,18 +73,17 @@ INPUTS:
 
 
 
-OUTPUT:
-
-![2](https://user-images.githubusercontent.com/104487026/179738603-1c68749d-9a0d-48ec-bd7b-0cebbff65e6d.png)
+**OUTPUT:<br /> **
+![2](https://user-images.githubusercontent.com/104487026/179738603-1c68749d-9a0d-48ec-bd7b-0cebbff65e6d.png)<br /> 
  
 
  Thermal efficiency of Otto cycle = 56.472%
 
- PV diagram:
-![3](https://user-images.githubusercontent.com/104487026/179738632-8d335a81-d28e-4878-8961-ca0f4c75c1a0.png)
+ PV diagram:<br /> 
+![3](https://user-images.githubusercontent.com/104487026/179738632-8d335a81-d28e-4878-8961-ca0f4c75c1a0.png)<br /> 
 
       
 
-OBSERVATION:
+**OBSERVATION:**
 
       The PV diagram has been plotted using process equations and the thermal efficiency has been calculated. It can be observed that the efficiency varies inversely with the compression ratio.
